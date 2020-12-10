@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Gillian and I am building on my coding skills to help make better planning decisions.
+
+🌱 My latest projects are focused on public policy analysis with advanced spatial analysis and data science/machine learning.
+
+😄 Pronouns: her/she
+
 <!--
 **gillianzhaoxz/gillianzhaoxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
